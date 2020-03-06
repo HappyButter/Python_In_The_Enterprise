@@ -1,1 +1,5 @@
-DAG is how the git chains structure we call
+DAG is how the git chains structure is called
+
+git log 
+git checkout -b dev //creates another branch called "dev"
+git checkout master //go to master branch!
